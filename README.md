@@ -1,4 +1,4 @@
-# Speed-up-APSS
+# Speed Up <i>All Pairs Similarity Search (APSS)</i>
 
 ## Introduction
 
