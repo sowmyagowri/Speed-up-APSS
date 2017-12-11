@@ -41,6 +41,11 @@ A python script has been written to execute both the algorithms for all the belo
 * datasets ∈ {wiki1.csr, wiki2.csr}
 
 ## Performance Comparison using Graphs
+<p align="center">Input File: Wiki1.csr with 10,000 documents</p>
+![invertedindex-page-001](https://user-images.githubusercontent.com/25673997/33811863-b9196462-ddcc-11e7-9f15-3d2776a0b542.jpg)
+
+
+<p align="center">Input File: Wiki2.csr with 50,000 documents</p>
 
 ## References
 
