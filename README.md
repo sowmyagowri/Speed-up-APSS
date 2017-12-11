@@ -34,7 +34,7 @@ Vector of neighbors N
 
 ![picture1](https://user-images.githubusercontent.com/25673997/33811183-68ee3f9c-ddc4-11e7-9394-30ed74557416.png)
 
-A python script has been written to execute both the algorithms for all the below mentioned combinations and is available in findsim/scripts/test_script.py. This script also runs the findsim command in eq mode and displays the differences, if any, between the two output files.
+A python script has been written to execute both the algorithms for all the below mentioned combinations and is available in [findsim/scripts/test_script.py](https://github.com/sowmyagowri/Speed-up-APSS/blob/master/findsim/script/test_script.py). This script also runs the findsim command in eq mode and displays the differences, if any, between the two output files.
 
 * 𝜖 ∈ {0.3,0.4,0.5,0.7,0.9}
 * 𝑘 ∈ {10,50,100} and 
