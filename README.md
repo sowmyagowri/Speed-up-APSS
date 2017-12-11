@@ -21,7 +21,7 @@ The implemented algorithm (InvertedIdx) is in file findsim/invertedidx.cpp and h
 
   <p align="center">../build/findsim -m iidx -eps 0.3 -k 10 wiki1.csr wiki1.iidx.0.3.10.csr <br>Or<br>../build/findsim -eps 0.3 -k 10 wiki1.csr wiki1.iidx.0.3.10.csr <br>Or<br>../build/findsim wiki1.csr wiki1.iidx.0.3.10.csr
 
-General usage and options of findsim command can be found in [here](findsim/README.md)
+General usage and options of findsim command can be found in [here](https://github.com/sowmyagowri/Speed-up-APSS/blob/master/findsim/README)
 
 Input CSR matrix with empty columns removed V
 Vector of inverted indices I1, I2…, Im 
