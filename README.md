@@ -9,7 +9,7 @@
 The problem tackled in this project is called Min-𝜖 Cosine 𝑘-Nearest Neighbor Graph Construction, and is defined as follows.
 Given a set of objects 𝐷, for each object 𝑑i in 𝐷, find the 𝑘 most similar other objects 𝑑j with cosine similarity cos(𝑑i,𝑑j) of at least 𝜖. In this project, the problem must be solved exactly, i.e., all correct neighbors must be reported, along with their correct cosine similarities.
 
-A baseline method, using IdxJoin, has been provided by Prof. David C. Anastasiu, implemented in C. The efficiency of  the solution implemented as part of this project must be compared against IdxJoin on a variety of provided inputs (𝜖, 𝑘, datasets).
+A baseline method, using IdxJoin and implemented in C, has been provided by [Prof. David C. Anastasiu](http://davidanastasiu.net/) of CMPE department at [San Jose State University (SJSU)](http://www.sjsu.edu/). The efficiency of  the solution implemented as part of this project must be compared against IdxJoin on a variety of provided inputs (𝜖, 𝑘, datasets).
 
 ## Approach and Methodology
 
